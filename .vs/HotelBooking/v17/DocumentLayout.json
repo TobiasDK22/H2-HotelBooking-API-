@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|c:\\users\\blsto\\onedrive\\dokumenter\\github\\h2-hotelbooking-api-\\hotelbooking\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|c:\\users\\blsto\\onedrive\\dokumenter\\github\\h2-hotelbooking-api-\\hotelbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|c:\\users\\blsto\\onedrive\\dokumenter\\github\\h2-hotelbooking-api-\\hotelbooking\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|c:\\users\\blsto\\onedrive\\dokumenter\\github\\h2-hotelbooking-api-\\hotelbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13D7DBE8-C883-41E7-A6A4-EAB2B7CF6907}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelBooking\\appsettings.json",
+              "ToolTip": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\appsettings.json",
+              "RelativeToolTip": "HotelBooking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T08:27:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\DatabaseInitializer.cs",
+              "RelativeToolTip": "HotelBooking\\DatabaseInitializer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:03:35.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\Model.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Model.cs",
+              "ToolTip": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\Model.cs",
+              "RelativeToolTip": "HotelBooking\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:50:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\blsto\\OneDrive\\Dokumenter\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\Program.cs",
+              "RelativeToolTip": "HotelBooking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:59:40.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
