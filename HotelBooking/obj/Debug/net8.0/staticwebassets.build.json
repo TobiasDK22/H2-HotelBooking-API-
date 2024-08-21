@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pp5HE9ylVxtfPU9OZ7VEuEmgPV3Ad2G7Z6pXhnehQpk=",
+  "Hash": "UJSmXZfHzht4jdtxWrJ2QrfqvCB+DG1LhgzAN0HvqvM=",
   "Source": "HotelBooking",
   "BasePath": "_content/HotelBooking",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HotelBooking\\wwwroot",
       "Source": "HotelBooking",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\",
       "BasePath": "_content/HotelBooking",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HotelBooking.styles.css",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HotelBooking.styles.css",
       "SourceId": "HotelBooking",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "HotelBooking.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HotelBooking.styles.css"
+      "OriginalItemSpec": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HotelBooking.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelBooking.bundle.scp.css",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelBooking.bundle.scp.css",
       "SourceId": "HotelBooking",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "HotelBooking.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelBooking.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelBooking.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\app.css",
       "SourceId": "HotelBooking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "HotelBooking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "HotelBooking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\favicon.png",
       "SourceId": "HotelBooking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kvist\\Documents\\GitHub\\H2-HotelBooking-API-\\HotelBooking\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\blsto\\source\\repos\\HotelBooking\\HotelBooking\\wwwroot\\",
       "BasePath": "_content/HotelBooking",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
